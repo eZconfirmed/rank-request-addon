@@ -1,7 +1,7 @@
 # Rank Request Add-ons
 
 
-Cool little features for the [ScoreSaber Rank Requests Page](https://scoresaber.com/ranking/requests) that took me way longer than it should have taken.
+Cool little features for the [ScoreSaber Rank Requests Page](https://scoresaber.com/ranking/requests) that took me way longer than it should have taken to create.
 
 # Install
 
