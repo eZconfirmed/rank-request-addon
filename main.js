@@ -5,7 +5,8 @@
 // @description  simple features for scoresaber ranking page
 // @author       eZconfirmed
 // @match        https://scoresaber.com/ranking/requests
-// @downloadURL  https://github.com/eZconfirmed/rank-request-addon/raw/main/main.js
+// @updateURL    https://raw.githubusercontent.com/eZconfirmed/rank-request-addon/master/main.js
+// @downloadURL  https://raw.githubusercontent.com/eZconfirmed/rank-request-addon/master/main.js
 // @icon         https://scoresaber.com/images/logo.svg
 // @grant        none
 // ==/UserScript==
