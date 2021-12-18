@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Downvote Hider
+// @name         Rank Request Add-ons
 // @namespace    https://scoresaber.com/ranking/requests
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0.0
+// @description  Simple features for ScoreSaber ranking
 // @author       eZconfirmed
 // @match        https://scoresaber.com/ranking/requests
 // @updateURL    https://github.com/eZconfirmed/rank-request-addon/raw/master/main.user.js
