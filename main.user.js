@@ -2,7 +2,7 @@
 // @name         Downvote Hider
 // @namespace    https://scoresaber.com/ranking/requests
 // @version      0.1
-// @description  simple features for scoresaber ranking page
+// @description  try to take over the world!
 // @author       eZconfirmed
 // @match        https://scoresaber.com/ranking/requests
 // @updateURL    https://github.com/eZconfirmed/rank-request-addon/raw/master/main.user.js
@@ -151,6 +151,15 @@ function bigListCheck() {
             console.log(document.getElementsByClassName("section")[0].getElementsByTagName("button")[2].id + " shown");
             document.getElementsByTagName("tbody")[1].getElementsByClassName("table-item")[i].style.display = "";
         }
+      var b = document.getElementsByTagName("tbody")[1].getElementsByClassName("table-item")[i];
+      if (Math.ceil(3-(parseInt(b.getElementsByClassName("rt_upvotes")[0].innerHTML) / (parseInt(b.getElementsByClassName("diffs_created_at")[0].getElementsByTagName("b")[0].innerHTML)))) <= 0)
+      {
+          b.getElementsByClassName("song-info")[0].innerHTML = b.getElementsByClassName("song-info")[0].innerHTML + "<p><b>No votes required! Ready for qualification!</b></p>";
+      }
+      else
+      {
+         b.getElementsByClassName("song-info")[0].innerHTML = b.getElementsByClassName("song-info")[0].innerHTML + "<p>" + Math.ceil(3-(parseInt(b.getElementsByClassName("rt_upvotes")[0].innerHTML) / (parseInt(b.getElementsByClassName("diffs_created_at")[0].getElementsByTagName("b")[0].innerHTML)))) + " RT member(s) required</p>";
+      }
     }
     }
 }
