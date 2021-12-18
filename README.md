@@ -10,7 +10,9 @@ Get Tampermonkey for [Chrome](https://chrome.google.com/webstore/detail/tampermo
 # Features
 
 - Easily see how many more RT members are needed to qualify a map
+- 
 ![](https://github.com/eZconfirmed/rank-request-addon/blob/master/doc/rtneeded.PNG)
 
 - Toggle visibility of maps in queue with RT or QAT Downvotes
+- 
 ![](https://github.com/eZconfirmed/rank-request-addon/blob/master/doc/hidebutton.gif)
