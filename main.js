@@ -2,7 +2,7 @@
 // @name         Downvote Hider
 // @namespace    https://scoresaber.com/ranking/requests
 // @version      0.1
-// @description  try to take over the world!
+// @description  simple features for scoresaber ranking page
 // @author       eZconfirmed
 // @match        https://scoresaber.com/ranking/requests
 // @downloadURL  https://github.com/eZconfirmed/rank-request-addon/raw/master/main.js
