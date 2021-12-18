@@ -5,6 +5,7 @@
 // @description  try to take over the world!
 // @author       eZconfirmed
 // @match        https://scoresaber.com/ranking/requests
+// @downloadURL  https://github.com/eZconfirmed/rank-request-addon/raw/master/main.js
 // @icon         https://scoresaber.com/images/logo.svg
 // @grant        none
 // ==/UserScript==
