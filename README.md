@@ -16,3 +16,8 @@ Get Tampermonkey for [Chrome](https://chrome.google.com/webstore/detail/tampermo
 - Toggle visibility of maps in queue with RT or QAT Downvotes
 
 ![](https://github.com/eZconfirmed/rank-request-addon/blob/master/doc/hidebutton.gif)
+
+# Contact
+Are there other features you think should be added? 
+- Let me know on Discord: **ezec#5197**
+- Create a new issue: [here](https://github.com/eZconfirmed/rank-request-addon/issues/new)
